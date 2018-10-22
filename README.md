@@ -27,12 +27,12 @@ my Google Maps application key online so I cannot host a live demo.
 
 The program in the backend with take all of the latitude and longitude
 coordinates to determine the total bounding box of all the markers.
-![Zoomed Out](https://github.com/Math-ias/RoboticsMap/zoomedout.png)
+![Zoomed Out](https://raw.githubusercontent.com/Math-ias/RoboticsMap/master/zoomedout.png)
 
 The map is interactive and has custom graphics to show where the event is
 taking place (the star).
-![Zoomed In](https://github.com/Math-ias/RoboticsMap/zoomedin.png)
+![Zoomed In](https://raw.githubusercontent.com/Math-ias/RoboticsMap/master/zoomedin.png)
 
 Each of the markers that shows where teams come from also display information
 such as their motto, their website, and their dates of establishment.
-![Team Selected](https://github.com/Math-ias/RoboticsMap/teamselected.png)
+![Team Selected](https://raw.githubusercontent.com/Math-ias/RoboticsMap/master/teamselected.png)
