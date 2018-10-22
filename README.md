@@ -10,7 +10,7 @@ manually.
 ## How It Works
 The map is created in four distinct steps.
 1. The data on teams coming to the event is downloaded off of
-(TheBlueAlliance)[https://www.thebluealliance.com/] in the backend with python.
+[TheBlueAlliance](https://www.thebluealliance.com/) in the backend with python.
 This was an expensive operation that both took a lot of bandwidth on my computer
 and would take a lot of networking resources if done by the client every page
 load. Because of this, this step is done only once.
